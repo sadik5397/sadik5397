@@ -1,6 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💼 **Freelancer Mobile App & Frontend Developer**: I work as a freelancer in ***Mobile App*** and ***Frontend Web*** development. ***Open to new opportunities and collaborations***.<br>
 
+🔭 **I’m currently working on**: Developing a cutting-edge mobile app that leverages AI and machine learning for personalized content recommendations.<br>
+
+👯 **I’m looking to collaborate on**: Exciting projects in the intersection of tech and creativity, especially those involving mobile app development or Wen frontemd development.<br>
+
+🤝 **I’m looking for help with**: Exploring innovative marketing strategies to promote my entrepreneurial ventures in the digital content space.<br>
+
+🌱 **I’m currently learning**: Deepening my knowledge in Machine Learning (ML) to enhance the text-to-image and video generation features with stable diffusion SDXL.<br>
+
+💬 **Ask me about**: Anything related to mobile app development, UI/UX design, frontend web development, or even the latest trends in the motion designing landscape.<br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=sadik5397&icon=1&color=11)](https://github.com/sadik5397)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadik5397) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sadik5397)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sadik5397) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadik5397)
@@ -28,11 +40,4 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadik5397&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadik5397&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik5397&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sadik5397&icon=1&color=11)](https://github.com/sadik5397)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadik5397&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=300&langs_count=10&line-height=60&&hide_title=true&show_icons=true&bg_color=0d1117) ![](https://github-readme-streak-stats.herokuapp.com/?user=sadik5397&hide_border=true&theme=transparent&text_color=FF449F)
